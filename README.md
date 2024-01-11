@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portafolio de Luis</title>
+    <title>mi pagina web</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -38,7 +38,7 @@
 <body>
 
     <header>
-        <h1>Luis - Desarrollador Web</h1>
+        <h1>Desarrollador Web</h1>
     </header>
 
     <section>
@@ -48,7 +48,7 @@
 
     <section>
         <h2>Educación</h2>
-        <p>Actualmente estudiante de [Tu Carrera o Programa] en [Nombre de tu Universidad o Instituto].</p>
+        <p>Actualmente estudiante de programacion en cursos enlinea.</p>
     </section>
 
     <section>
@@ -59,14 +59,14 @@
     <section>
         <h2>Proyectos Destacados</h2>
         <ul>
-            <li>Proyecto 1 - Descripción breve</li>
-            <li>Proyecto 2 - Descripción breve</li>
+            <li>en este momento no e tenido proyectos</li>
+        
         </ul>
     </section>
 
     <section>
-        <h2>Contacto</h2>
-        <p>Email: tu@email.com</p>
+        <h2>+524421786079</h2>
+        <p>Email: luisandreeslavaturcot@email.com</p>
         <p>LinkedIn: [Tu perfil de LinkedIn]</p>
         <!-- Puedes agregar más detalles de contacto según tus preferencias -->
     </section>
