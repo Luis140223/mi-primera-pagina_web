@@ -65,7 +65,7 @@
     </section>
 
     <section>
-        <h2>+524421786079</h2>
+        <h2>contacto</h2>
         <p>Email: luisandreeslavaturcot@email.com</p>
         <p>LinkedIn: [Tu perfil de LinkedIn]</p>
         <!-- Puedes agregar más detalles de contacto según tus preferencias -->
