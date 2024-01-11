@@ -1,47 +1,59 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    header {
-        text-align: center;
-        padding: 20px;
-        background-color: #333;
-        color: #fff;
-    }
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #495057;
+        }
 
-    section {
-        margin: 20px 0;
-        padding: 20px;
-        background-color: #fff;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #343a40;
+            color: #fff;
+        }
 
-    h2 {
-        color: #333;
-    }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
 
-    p {
-        line-height: 1.6;
-        color: #666;
-    }
+        h2 {
+            color: #343a40;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+        }
 
-    ul {
-        list-style-type: none;
-        padding: 0;
-    }
+        p {
+            line-height: 1.6;
+            color: #6c757d;
+        }
 
-    li {
-        margin-bottom: 10px;
-    }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
 
-    /* Estilos para enlaces */
-    a {
-        color: #007BFF;
-        text-decoration: none;
-    }
+        li {
+            margin-bottom: 10px;
+        }
 
-    a:hover {
-        text-decoration: underline;
-    }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
     </style>
 </head>
 <body>
@@ -82,3 +94,4 @@
 
 </body>
 </html>
+
