@@ -1,38 +1,47 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>mi pagina web</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f4f4f4;
-        }
+    header {
+        text-align: center;
+        padding: 20px;
+        background-color: #333;
+        color: #fff;
+    }
 
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #333;
-            color: #fff;
-        }
+    section {
+        margin: 20px 0;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
 
-        section {
-            margin-bottom: 20px;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+    h2 {
+        color: #333;
+    }
 
-        h2 {
-            color: #333;
-        }
+    p {
+        line-height: 1.6;
+        color: #666;
+    }
 
-        p {
-            line-height: 1.6;
-            color: #666;
-        }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+
+    /* Estilos para enlaces */
+    a {
+        color: #007BFF;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
     </style>
 </head>
 <body>
