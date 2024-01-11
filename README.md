@@ -12,14 +12,14 @@
         header {
             text-align: center;
             padding: 20px;
-            background-color: #ff0000;
-            color: #fff;
+            background-color: #000000;
+            color: #e6c73e;
         }
 
         section {
             margin: 20px 0;
             padding: 20px;
-            background-color: #fff;
+            background-color: hsl(310, 100%, 50%);
             border-radius: 8px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
         }
