@@ -19,7 +19,7 @@
         section {
             margin: 20px 0;
             padding: 20px;
-            background-color: hsl(273, 100%, 50%);
+            background-color: hsl(0, 0%, 100%);
             border-radius: 8px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
         }
@@ -92,3 +92,4 @@
 
 </body>
 </html>
+
