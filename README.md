@@ -12,14 +12,14 @@
         header {
             text-align: center;
             padding: 20px;
-            background-color: #000000;
-            color: #e6c73e;
+            background-color: #1900ff;
+            color: #000000;
         }
 
         section {
             margin: 20px 0;
             padding: 20px;
-            background-color: hsl(310, 100%, 50%);
+            background-color: hsl(273, 100%, 50%);
             border-radius: 8px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
         }
@@ -92,4 +92,3 @@
 
 </body>
 </html>
-
