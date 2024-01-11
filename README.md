@@ -1,4 +1,3 @@
-
 <html lang="es">
 <head>
     <style>
@@ -86,7 +85,7 @@
 
     <section>
         <h2>contacto</h2>
-        <p>Email: luisandreeslavaturcot@email.com</p>
+        <p>Email: luis@gmail.com</p>
         <p>LinkedIn: [Tu perfil de LinkedIn]</p>
         <!-- Puedes agregar más detalles de contacto según tus preferencias -->
     </section>
