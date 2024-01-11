@@ -54,7 +54,6 @@
             text-decoration: underline;
         }
     </style>
-    </style>
 </head>
 <body>
 
