@@ -5,14 +5,14 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #ffcc66; /* Fondo naranja */
-            color: #495057;
+            background-color: #ffd666; /* Fondo naranja */
+            color: #0004ff;
         }
 
         header {
             text-align: center;
             padding: 20px;
-            background-color: #343a40;
+            background-color: #ff0000;
             color: #fff;
         }
 
@@ -92,3 +92,4 @@
 
 </body>
 </html>
+
