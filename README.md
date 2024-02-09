@@ -63,6 +63,11 @@
     <section>
         <h2>Biografía</h2>
         <p>Hola, soy Luis, un estudiante apasionado de programación especializado en HTML y CSS. Creo páginas web cautivadoras y ansío oportunidades para aplicar mis habilidades en un entorno dinámico. ¡Listo para contribuir al éxito del equipo!</p>
+        <ul class="social-icons">
+        <li><a href="https://www.linkedin.com/in/tu-perfil" target="_blank">LinkedIn</a></li>
+        <li><a href="https://twitter.com/tu-usuario" target="_blank">Twitter</a></li>
+        <!-- Añade más enlaces según tus necesidades -->
+        </ul>
     </section>
 
     <section>
