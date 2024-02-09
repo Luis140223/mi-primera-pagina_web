@@ -59,11 +59,7 @@
     <header>
         <h1>Desarrollador Web</h1>
     </header>
- 
-    <div class="center">
-        <img src="ruta/de/la/imagen.jpg" alt="Descripción de la imagen">
-    </div>
-    
+
     <section>
         <h2>Biografía</h2>
         <p>Hola, soy Luis, un estudiante apasionado de programación especializado en HTML y CSS. Creo páginas web cautivadoras y ansío oportunidades para aplicar mis habilidades en un entorno dinámico. ¡Listo para contribuir al éxito del equipo!</p>
