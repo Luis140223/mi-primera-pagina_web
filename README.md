@@ -58,8 +58,12 @@
 
     <header>
         <h1>Desarrollador Web</h1>
+            text-align: center;
+            padding: 20px;
+            background-color: #343a40;
+            color: #fff;
     </header>
-
+ 
     <section>
         <h2>Biografía</h2>
         <p>Hola, soy Luis, un estudiante apasionado de programación especializado en HTML y CSS. Creo páginas web cautivadoras y ansío oportunidades para aplicar mis habilidades en un entorno dinámico. ¡Listo para contribuir al éxito del equipo!</p>
@@ -97,4 +101,3 @@
 
 </body>
 </html>
-
