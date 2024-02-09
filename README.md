@@ -22,6 +22,7 @@
             background-color: hsl(0, 0%, 100%);
             border-radius: 8px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            min-width: 300px;
         }
 
         h2 {
@@ -56,9 +57,9 @@
 </head>
 <body>
 
-    <header>
-        <h1>Desarrollador Web</h1>
-    </header>
+    <div class="center">
+        <img src="ruta/de/la/imagen.jpg" alt="Descripción de la imagen">
+    </div>
 
     <section>
         <h2>Biografía</h2>
